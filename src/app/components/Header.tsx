@@ -7,7 +7,7 @@ export default function Header() {
     <header className="mt-10">
       <div className="container mx-auto max-w-[84%]">
         <div className="flex justify-between items-center">
-          <h2 className="text-2xl font-semibold">Portfolio</h2>
+          <h2 className="text-2xl font-semibold text-green-500">Portfolio</h2>
           <nav>
             <ul className="flex gap-8 mb-7">
               <li><Link href="/" className="text-lg text-teal-400 hover:text-yellow-300 transition duration-300">Home</Link></li>
