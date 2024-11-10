@@ -10,7 +10,7 @@ function Banner() {
             <p className="mb-2 leading-tight">Hi, This is me</p>
             <h1 className="mt-4 text-6xl font-bold">Muneeb Ali</h1>
             <p className="mt-5 mb-2 leading-relaxed">
-              I'm a passionate web developer specializing in creating dynamic and responsive websites. With a strong foundation in HTML, CSS, and JavaScript, I bring innovative ideas to life through clean and efficient code. I'm dedicated to delivering high-quality work that meets client needs and exceeds expectations.
+              I am a passionate web developer specializing in creating dynamic and responsive websites. With a strong foundation in HTML, CSS, and JavaScript, I bring innovative ideas to life through clean and efficient code. I am dedicated to delivering high-quality work that meets client needs and exceeds expectations.
             </p>
             <button className="mt-8 px-5 py-2 text-lg bg-blue-500 text-white rounded hover:bg-blue-600 transition">
               Contact me

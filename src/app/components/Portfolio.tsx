@@ -7,7 +7,7 @@ function Portfolio() {
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-6">Projects</h2>
         <p className="text-lg text-white mb-10">
-          Here are some of the projects I've worked on, showcasing my skills in web development and my ability to turn
+          Here are some of the projects I have worked on, showcasing my skills in web development and my ability to turn
           ideas into fully functional, visually appealing websites.
         </p>
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-2 mt-10">
